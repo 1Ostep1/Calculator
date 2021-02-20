@@ -1,7 +1,7 @@
 # Calculator
 
 * [General info](#general-info)
-* [What_is_used](#What is used)
+* [What is used](#What-is-used)
 * [Notes](#notes)
 * [Contact](#contact)
 
